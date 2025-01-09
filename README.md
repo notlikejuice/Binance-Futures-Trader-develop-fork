@@ -16,7 +16,7 @@ Always start by running a trading bot in Dry-run and do not engage money
 before you understand how it works and what profit/loss you should
 expect.
 
-## Futures_CrossTrade [CCXT Integration]
+## Futures_Trade [CCXT Integration]
 
 This project is a combination of Freqtrade and CCXT with new features and a revamped UI.
 
