@@ -1,10 +1,11 @@
-# ![freqtrade](https://raw.githubusercontent.com/freqtrade/freqtrade/develop/docs/assets/freqtrade_poweredby.svg)
+![DALL·E 2025-01-09 21 53 09 - A professional futuristic digital trading interface design showcasing cryptocurrency futures trading with charts, graphs, and an integrated user inter (1)](https://github.com/user-attachments/assets/4f6ed8ff-e244-4541-b7ee-822f0e203d0c)
+![Uploading DALL·E 2025-01-09 21.53.09 - A professional futuristic digital trading interface design showcasing cryptocurrency futures trading with charts, graphs, and an integrated user inter (1).svg…]()
 
 [![Freqtrade CI](https://github.com/freqtrade/freqtrade/workflows/Freqtrade%20CI/badge.svg)](https://github.com/freqtrade/freqtrade/actions/)
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.04864/status.svg)](https://doi.org/10.21105/joss.04864)
 [![Coverage Status](https://coveralls.io/repos/github/freqtrade/freqtrade/badge.svg?branch=develop&service=github)](https://coveralls.io/github/freqtrade/freqtrade?branch=develop)
 [![Documentation](https://readthedocs.org/projects/freqtrade/badge/)](https://www.freqtrade.io)
-[![Maintainability](https://api.codeclimate.com/v1/badges/5737e6d668200b7518ff/maintainability)](https://codeclimate.com/github/freqtrade/freqtrade/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/5737e6d668200b7518ff/maintainability)]
 
 ## Disclaimer
 
@@ -72,9 +73,11 @@ Please find the complete documentation on the [freqtrade website](https://www.fr
 
 ## Quick start
 
+
 Please refer to the [Docker Quickstart documentation](https://www.freqtrade.io/en/stable/docker_quickstart/) on how to get started quickly.
 
 For further (native) installation methods, please refer to the [Installation documentation page](https://www.freqtrade.io/en/stable/installation/).
+![Uploading DALL·E 2025-01-09 21.53.09 - A professional futuristic digital trading interface design showcasing cryptocurrency futures trading with charts, graphs, and an integrated user inter.svg…]()
 
 ## Features
 
