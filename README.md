@@ -1,5 +1,4 @@
 ![DALL·E 2025-01-09 21 53 09 - A professional futuristic digital trading interface design showcasing cryptocurrency futures trading with charts, graphs, and an integrated user inter (1)](https://github.com/user-attachments/assets/4f6ed8ff-e244-4541-b7ee-822f0e203d0c)
-![Uploading DALL·E 2025-01-09 21.53.09 - A professional futuristic digital trading interface design showcasing cryptocurrency futures trading with charts, graphs, and an integrated user inter (1).svg…]()
 
 [![Freqtrade CI](https://github.com/freqtrade/freqtrade/workflows/Freqtrade%20CI/badge.svg)](https://github.com/freqtrade/freqtrade/actions/)
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.04864/status.svg)](https://doi.org/10.21105/joss.04864)
